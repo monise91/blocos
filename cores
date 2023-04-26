@@ -45,57 +45,166 @@
 </html>
 
 
+div {
+
+    display: inline-block;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+
+#quadrado1{
+    background-color: red;
+    border: 1px solid black;
+
+}
+
+#quadrado2{
+    background-color: red;
+
+}
+
+#quadrado3{
+    background-color: red;
+
+}
+
+#quadrado4{
+    background-color: red;
+
+}
+
+#quadrado5{
+    background-color: red;
+
+}
+
+#quadrado6{
+    background-color: red;
+    border: 1px solid black;
+
+}
+
+#quadrado7{
+    background-color: red;
+
+}
+
+#quadrado8{
+    background-color: rgb(24, 184, 176);
+
+}
+
+#quadrado9{
+    background-color:  rgb(24, 184, 176);
+
+}
+
+#quadrado10{
+    background-color:  rgb(24, 184, 176);
+
+}
+
+#quadrado11{
+    background-color:  rgb(24, 184, 176);
+
+}
+
+#quadrado12{
+    background-color: red;
+
+}
+
+#quadrado13{
+    background-color: red;
+
+}
+
+#quadrado14{
+    background-color: rgb(26, 151, 43);
+
+}
+
+#quadrado15{
+    background-color: rgb(26, 151, 43);
+
+}
+
+#quadrado16{
+    background-color: rgb(26, 151, 43);
+
+}
+
+#quadrado17{
+    background-color:  rgb(26, 151, 43);
+
+}
+
+#quadrado18{
+    background-color:  red;
+
+}
+
+#quadrado19{
+    background-color:  red;
+
+}
+
+#quadrado20{
+    background-color: rgb(210, 230, 32);
+
+}
+#quadrado21{
+    background-color:  rgb(210, 230, 32);
+
+}
+
+#quadrado22{
+    background-color:  rgb(210, 230, 32);
+
+}
+
+#quadrado23{
+    background-color: rgb(210, 230, 32);
+
+}
+
+#quadrado24{
+    background-color: red;
+
+}
+
+#quadrado25{
+    background-color: red;
+    border: 1px solid black;
+}
+
+#quadrado26{
+    background-color: red;
+
+}
+
+#quadrado27{
+    background-color: red;
+
+}
+
+#quadrado28{
+    background-color:  red;
+
+}
+
+#quadrado29{
+    background-color:  red;
+
+}
+
+#quadrado30{
+    background-color:  red;
+    border: 1px solid black;
+
+}
 
 
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>bloco</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-
-    <div id="quadrado1"></div>
-    <div id="quadrado2"></div>
-    <div id="quadrado3"></div>
-    <div id="quadrado4"></div>
-    <div id="quadrado5"></div>
-    <div id="quadrado6"></div>
-    <div id="quadrado7"></div>
-    <div id="quadrado8"></div>
-    <div id="quadrado9"></div>
-    <div id="quadrado10"></div>
-    <div id="quadrado11"></div>
-    <div id="quadrado12"></div>
-    <div id="quadrado13"></div>
-    <div id="quadrado14"></div>
-    <div id="quadrado15"></div>
-    <div id="quadrado16"></div>
-    <div id="quadrado17"></div>
-    <div id="quadrado18"></div>
-    <div id="quadrado19"></div>
-    <div id="quadrado20"></div>
-    <div id="quadrado21"></div>
-    <div id="quadrado22"></div>
-    <div id="quadrado23"></div>
-    <div id="quadrado24"></div>
-    <div id="quadrado25"></div>
-    <div id="quadrado26"></div>
-    <div id="quadrado27"></div>
-    <div id="quadrado28"></div>
-    <div id="quadrado29"></div>
-    <div id="quadrado30"></div>
-
-</body>
-</html>
